@@ -35,11 +35,12 @@ This project fulfills all the **freeCodeCamp Product Landing Page** requirements
 - YouTube Embed
 
 ## 📂 Folder Structure
-
+```
 zenpods-landing-page/
 │
 ├── index.html
 ├── styles.css
+├── Screenshot.jpeg
 └── README.md
 
 
